@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narr07&langs_count=8)](https://github.com/narr07/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=narr07)](https://github.com/narr07/github-profile-trophy)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=narr_permadi
+)](https://github.com/narr07/github-readme-twitter)
