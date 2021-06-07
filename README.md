@@ -8,4 +8,4 @@ narr07/narr07 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![narr07 GitHub stats](https://github-readme-stats.vercel.app/api?username=narr07&theme=dark&show_icons=true)
+![narr07 GitHub stats](https://github-readme-stats.vercel.app/api?username=narr07&theme=vue&show_icons=true)
