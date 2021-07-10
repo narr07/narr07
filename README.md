@@ -2,6 +2,7 @@
 - 👀 I’m interested in Design & Programming
 - 🎓 I'm study in UPI
 - 📫 How to reach me on all social media @narr07 [Instagram](https://www.instagram.com/narr07/), [Twitter](https://twitter.com/narr_permadi)
+- 💻 [Website](https://permadi.design/)
 
 <!---
 narr07/narr07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
