@@ -6,6 +6,24 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/narr07) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/narr07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/narr07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narr07) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/narr07) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/narr_permadi) 
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 29 December 2020 - To: 29 May 2024
+
+Total Time: 1,231 hrs 52 mins
+
+Vue.js             537 hrs 31 mins >>>>>>>>>>>--------------   43.29 %
+TypeScript         271 hrs 56 mins >>>>>--------------------   21.90 %
+Dart               106 hrs 11 mins >>-----------------------   08.55 %
+HTML               95 hrs 30 mins  >>-----------------------   07.69 %
+JavaScript         62 hrs 57 mins  >------------------------   05.07 %
+CSS                55 hrs 17 mins  >------------------------   04.45 %
+JSON               36 hrs 42 mins  >------------------------   02.96 %
+Markdown           19 hrs 45 mins  -------------------------   01.59 %
+Blade Template     13 hrs 48 mins  -------------------------   01.11 %
+PHP                11 hrs 25 mins  -------------------------   00.92 %
+```
+
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
