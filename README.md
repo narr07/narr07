@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 December 2020 - To: 07 June 2024
+From: 29 December 2020 - To: 08 June 2024
 
-Total Time: 1,232 hrs 54 mins
+Total Time: 1,232 hrs 56 mins
 
 Vue.js             537 hrs 44 mins ██████████▓░░░░░░░░░░░░░░   43.27 %
 TypeScript         272 hrs 11 mins █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-Dart               106 hrs 11 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Dart               106 hrs 11 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
 HTML               95 hrs 30 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
 JavaScript         63 hrs 4 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
 ```
