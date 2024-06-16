@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 December 2020 - To: 13 June 2024
+From: 29 December 2020 - To: 15 June 2024
 
-Total Time: 1,247 hrs 51 mins
+Total Time: 1,250 hrs 8 mins
 
-Vue.js             547 hrs 27 mins ███████████░░░░░░░░░░░░░░   43.53 %
-TypeScript         275 hrs 47 mins █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
-Dart               106 hrs 11 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-HTML               95 hrs 30 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-JavaScript         63 hrs 8 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Vue.js             547 hrs 49 mins ███████████░░░░░░░░░░░░░░   43.48 %
+TypeScript         276 hrs 4 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
+Dart               106 hrs 11 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+HTML               95 hrs 30 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+JavaScript         63 hrs 10 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 ```
 
 <!--END_SECTION:waka-->
