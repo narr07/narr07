@@ -1,4 +1,5 @@
- 
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/62962)
+
 👨🏻‍🏫 Teacher - 🧑🏻‍🎓 Student - 💻 Designer - 👨🏻‍💻 Programmer<br>
 
 
