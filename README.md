@@ -25,4 +25,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=300  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narr07&theme=vue&hide_border=false&include_all_commits=false&count_private=false" />
 </a>
- 
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@narr07/c1b5e543-9007-4f3e-93cd-31458058bdf2.png" /></a>
